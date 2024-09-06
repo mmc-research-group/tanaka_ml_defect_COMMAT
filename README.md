@@ -15,4 +15,4 @@ Conversion of the trimmed video into a video with static coordinates.
 #### 2.1 train_*class.py
 Training of U-net.
 #### 2.2 predict_*.py
-Semantic segmentation of the frames not used for training. Trained model that reproduces the result of the paper is in the folder of "trained_model".
+Semantic segmentation of the frames not used for training. Trained models that reproduce the results of the paper are in the folder of "trained_model".
