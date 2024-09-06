@@ -171,7 +171,7 @@ if __name__ == '__main__':
     plt.xticks(fontsize=16)
     plt.yticks(fontsize=16)
     ax.xaxis.set_major_formatter(ticker.FuncFormatter(lambda x,_: f'{x*10**(3):.1f}'))
-    ax.xaxis.set_major_formatter(ptick.ScalarFormatter(useMathText=True))   # こっちを先に書くこと。
+    ax.xaxis.set_major_formatter(ptick.ScalarFormatter(useMathText=True))
     ax.ticklabel_format(style="sci", axis="x", scilimits=(-3,-3))  
     ax.spines['top'].set_linewidth(3)
     ax.spines['bottom'].set_linewidth(3)
