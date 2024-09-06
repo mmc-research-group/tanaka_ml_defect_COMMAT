@@ -1,2 +1,2 @@
 # tanaka_ml_defect_public
-for jpurnal
+for journal
