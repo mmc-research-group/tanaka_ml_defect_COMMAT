@@ -1,6 +1,11 @@
 # Data and code for analysis of TEM video using machine learning
 This is the repository for the paper "Machine-learning-aided Analysis of Relationship Between Crystal Defects and Macroscopic Mechanical Properties of TWIP steel".
 ## Usage
+### 0. Installation
+- CUDA
+- pytorch
+- wandb(0.15.11)
+- opencv
 ### 1. Data preparation
 #### 1.1  trimvideo.py
 Trimiming of the length scale and time display in the video.
