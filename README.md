@@ -1,5 +1,11 @@
-# Data and code for analysis of TEM video using machine learning
-This is the repository for the paper "Machine-learning-aided Analysis of Relationship Between Crystal Defects and Macroscopic Mechanical Properties of TWIP steel".
+# TEMVis
+Quantitative Dynamic TEM Analysis Using Optical Flow and U-Net
+<img src="https://github.com/user-attachments/assets/0e21cffb-1abf-441b-b5a4-98895f2dfc45" alt="Image Description" width="600" >
+
+
+
+## About
+This is the repository for the paper "Machine-learning-aided Analysis of Relationship Between Crystal Defects and Macroscopic Mechanical Properties of TWIP steel".　This repository contains the code used for video preprocessing with Optical flow and the code used for TEM video analysis with U-net. The programs are written in python. 
 ## Requirement
 - CUDA
 - pytorch
