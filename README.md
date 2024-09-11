@@ -1,5 +1,5 @@
 # TEMVis
-Quantitative Dynamic TEM Analysis Using Optical Flow and U-Net
+Quantitative Dynamic (in situ) TEM Analysis Using Optical Flow and U-Net
 <img src="https://github.com/user-attachments/assets/0e21cffb-1abf-441b-b5a4-98895f2dfc45" alt="Image Description" width="600" >
 
 
