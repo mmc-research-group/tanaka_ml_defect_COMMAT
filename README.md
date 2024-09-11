@@ -5,7 +5,10 @@ Quantitative Dynamic TEM Analysis Using Optical Flow and U-Net
 
 
 ## About
-This is the repository for the paper "Machine-learning-aided Analysis of Relationship Between Crystal Defects and Macroscopic Mechanical Properties of TWIP steel".　This repository contains the code used for video preprocessing with Optical flow and the code used for TEM video analysis with U-net. The programs are written in python. 
+This repository contains the code used for video preprocessing with Optical flow and the code used for TEM video analysis with U-net. The programs are written in python. The detailed information is described in the following paper;  
+>Tanaka, M., Sasaki, K., Punyafu, J., Muramatsu, M., Murayama, M. Machine-learning-aided Analysis of Relationship Between Crystal Defects and Macroscopic Mechanical Properties of TWIP steel. (to be submittted)
+
+If you use this code to write an academic paper, I would appreciate it if you cite this paper.
 ## Requirement
 - CUDA
 - pytorch
