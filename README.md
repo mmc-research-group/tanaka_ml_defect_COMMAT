@@ -1,5 +1,5 @@
 # TEMVis
-Quantitative Dynamic (in situ) TEM Analysis Using Optical Flow and U-Net
+Quantitative Dynamic (in situ) TEM Analysis Using Optical Flow and U-Net. TEMVis can extract microstructural information from a diverse set of in situ TEM datasets. The current version is written for in situ TEM deformation experements to automatically extrat quantitative feature date from videos containing a variety of microstructural components. 
 <img src="https://github.com/user-attachments/assets/0e21cffb-1abf-441b-b5a4-98895f2dfc45" alt="Image Description" width="600" >
 
 
@@ -8,7 +8,8 @@ Quantitative Dynamic (in situ) TEM Analysis Using Optical Flow and U-Net
 This repository contains the code used for video preprocessing with Optical flow and the code used for TEM video analysis with U-net. The programs are written in python. The detailed information is described in the following paper;  
 >Tanaka, M., Sasaki, K., Punyafu, J., Muramatsu, M., Murayama, M. Machine-learning-aided Analysis of Relationship Between Crystal Defects and Macroscopic Mechanical Properties of TWIP steel. (to be submittted)
 
-If you use this code to write an academic paper, I would appreciate it if you cite this paper.
+If you find this code useful for your academic research, kindly acknowledge its contribution by citing our paper.
+
 ## Requirement
 - CUDA
 - pytorch
